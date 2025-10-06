@@ -36,9 +36,3 @@ The bot needs these permissions to work on the servers:
 - Connect
 - Speak
 - Read Messages
-
----
-
-## 🛠️ Author
-Developed by **Filip P.** with ❤️ for automation and music.
-
