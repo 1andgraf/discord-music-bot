@@ -11,7 +11,7 @@ It can play songs, manage queues and playlists.
 | `!playlist <name>` | Plays a saved playlist |
 | `!leave` | Disconnects bot from voice channel |
 
-Users with the role **music ban** cannot make any bot interactions.
+Users with the role **"music ban"** cannot make any bot interactions.
 
 ## 🧱 Installation
 
