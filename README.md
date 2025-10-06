@@ -31,6 +31,7 @@ Users with the role **music ban** cannot make any bot interactions.
    ```env
    TOKEN=YOUR_DISCORD_BOT_TOKEN
    ```
+---
 
 The bot needs these permissions to work on the servers:
 - Connect
